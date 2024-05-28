@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTDDCsharpTest", "SimpleTDDCsharpTest\SimpleTDDCsharpTest.csproj", "{A70C359D-2C42-4283-BDC2-397AE8DB575C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{6B6880F2-79A9-4DA5-8564-613BF99F3748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A70C359D-2C42-4283-BDC2-397AE8DB575C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70C359D-2C42-4283-BDC2-397AE8DB575C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70C359D-2C42-4283-BDC2-397AE8DB575C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70C359D-2C42-4283-BDC2-397AE8DB575C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B6880F2-79A9-4DA5-8564-613BF99F3748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6880F2-79A9-4DA5-8564-613BF99F3748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6880F2-79A9-4DA5-8564-613BF99F3748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6880F2-79A9-4DA5-8564-613BF99F3748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56FAA20B-D528-4959-94EB-EBF52FBFB85B}
+	EndGlobalSection
+EndGlobal
