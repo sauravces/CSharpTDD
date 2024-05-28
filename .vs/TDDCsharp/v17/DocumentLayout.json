@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sauravbalasaheb.chou\\source\\repos\\TDDCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A70C359D-2C42-4283-BDC2-397AE8DB575C}|SimpleTDDCsharpTest\\SimpleTDDCsharpTest.csproj|c:\\users\\sauravbalasaheb.chou\\source\\repos\\tddcsharp\\simpletddcsharptest\\palindromecheckertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70C359D-2C42-4283-BDC2-397AE8DB575C}|SimpleTDDCsharpTest\\SimpleTDDCsharpTest.csproj|solutionrelative:simpletddcsharptest\\palindromecheckertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6880F2-79A9-4DA5-8564-613BF99F3748}|Calculator\\Calculator.csproj|c:\\users\\sauravbalasaheb.chou\\source\\repos\\tddcsharp\\calculator\\palindromechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6880F2-79A9-4DA5-8564-613BF99F3748}|Calculator\\Calculator.csproj|solutionrelative:calculator\\palindromechecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70C359D-2C42-4283-BDC2-397AE8DB575C}|SimpleTDDCsharpTest\\SimpleTDDCsharpTest.csproj|c:\\users\\sauravbalasaheb.chou\\source\\repos\\tddcsharp\\simpletddcsharptest\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70C359D-2C42-4283-BDC2-397AE8DB575C}|SimpleTDDCsharpTest\\SimpleTDDCsharpTest.csproj|solutionrelative:simpletddcsharptest\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6880F2-79A9-4DA5-8564-613BF99F3748}|Calculator\\Calculator.csproj|c:\\users\\sauravbalasaheb.chou\\source\\repos\\tddcsharp\\calculator\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B6880F2-79A9-4DA5-8564-613BF99F3748}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 252,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calc.cs",
+              "DocumentMoniker": "C:\\Users\\sauravbalasaheb.chou\\source\\repos\\TDDCsharp\\Calculator\\Calc.cs",
+              "RelativeDocumentMoniker": "Calculator\\Calc.cs",
+              "ToolTip": "C:\\Users\\sauravbalasaheb.chou\\source\\repos\\TDDCsharp\\Calculator\\Calc.cs",
+              "RelativeToolTip": "Calculator\\Calc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T07:01:35.025Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PalindromeCheckerTest.cs",
+              "DocumentMoniker": "C:\\Users\\sauravbalasaheb.chou\\source\\repos\\TDDCsharp\\SimpleTDDCsharpTest\\PalindromeCheckerTest.cs",
+              "RelativeDocumentMoniker": "SimpleTDDCsharpTest\\PalindromeCheckerTest.cs",
+              "ToolTip": "C:\\Users\\sauravbalasaheb.chou\\source\\repos\\TDDCsharp\\SimpleTDDCsharpTest\\PalindromeCheckerTest.cs",
+              "RelativeToolTip": "SimpleTDDCsharpTest\\PalindromeCheckerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:26:21.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PalindromeChecker.cs",
+              "DocumentMoniker": "C:\\Users\\sauravbalasaheb.chou\\source\\repos\\TDDCsharp\\Calculator\\PalindromeChecker.cs",
+              "RelativeDocumentMoniker": "Calculator\\PalindromeChecker.cs",
+              "ToolTip": "C:\\Users\\sauravbalasaheb.chou\\source\\repos\\TDDCsharp\\Calculator\\PalindromeChecker.cs",
+              "RelativeToolTip": "Calculator\\PalindromeChecker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:38:37.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calc.cs",
+              "DocumentMoniker": "C:\\Users\\sauravbalasaheb.chou\\source\\repos\\TDDCsharp\\SimpleTDDCsharpTest\\Calc.cs",
+              "RelativeDocumentMoniker": "SimpleTDDCsharpTest\\Calc.cs",
+              "ToolTip": "C:\\Users\\sauravbalasaheb.chou\\source\\repos\\TDDCsharp\\SimpleTDDCsharpTest\\Calc.cs",
+              "RelativeToolTip": "SimpleTDDCsharpTest\\Calc.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T06:22:59.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
