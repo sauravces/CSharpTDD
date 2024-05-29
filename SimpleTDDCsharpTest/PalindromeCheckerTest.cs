@@ -1,12 +1,7 @@
-﻿
-
-using Xunit;
-using FluentAssertions;
-using Calculator;
+﻿using Calculator;
 
 namespace SimpleTDDCsharpTest
 {
-   
     public class PalindromeCheckerTest
     {
         [Fact]
