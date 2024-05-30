@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sauravbalasaheb.chou\\source\\repos\\TDDCsharp\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\sauravbalasaheb.chou\\source\\repos\\TDDCsharp1\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sauravbalasaheb.chou\\source\\repos\\TDDCsharp\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\sauravbalasaheb.chou\\source\\repos\\TDDCsharp1\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sauravbalasaheb.chou\\source\\repos\\TDDCsharp\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\sauravbalasaheb.chou\\source\\repos\\TDDCsharp1\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\sauravbalasaheb.chou\\source\\repos\\TDDCsharp\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\Users\\sauravbalasaheb.chou\\source\\repos\\TDDCsharp1\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\sauravbalasaheb.chou\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sauravbalasaheb.chou\\source\\repos\\TDDCsharp\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\sauravbalasaheb.chou\\source\\repos\\TDDCsharp1\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
